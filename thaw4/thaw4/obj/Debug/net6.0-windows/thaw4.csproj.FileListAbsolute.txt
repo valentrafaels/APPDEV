@@ -1,0 +1,17 @@
+C:\Users\valentrafael\source\repos\thaw4\thaw4\bin\Debug\net6.0-windows\thaw4.exe
+C:\Users\valentrafael\source\repos\thaw4\thaw4\bin\Debug\net6.0-windows\thaw4.deps.json
+C:\Users\valentrafael\source\repos\thaw4\thaw4\bin\Debug\net6.0-windows\thaw4.runtimeconfig.json
+C:\Users\valentrafael\source\repos\thaw4\thaw4\bin\Debug\net6.0-windows\thaw4.dll
+C:\Users\valentrafael\source\repos\thaw4\thaw4\bin\Debug\net6.0-windows\thaw4.pdb
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.csproj.AssemblyReference.cache
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.csproj.GenerateResource.cache
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.AssemblyInfoInputs.cache
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.AssemblyInfo.cs
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.csproj.CoreCompileInputs.cache
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.dll
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\refint\thaw4.dll
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.pdb
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.genruntimeconfig.cache
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\ref\thaw4.dll
+C:\Users\valentrafael\source\repos\thaw4\thaw4\obj\Debug\net6.0-windows\thaw4.Form1.resources
